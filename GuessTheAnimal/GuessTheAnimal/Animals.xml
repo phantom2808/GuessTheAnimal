@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Animals>
+  <Animal>
+    <name>Elephant</name>
+    <sound>trumpets</sound>
+    <feature>trunk</feature>
+    <colour>grey</colour>
+  </Animal>
+  <Animal>
+    <name>Lion</name>
+    <sound>roars</sound>
+    <feature>mane</feature>
+    <colour>yellow</colour>
+  </Animal>
+</Animals>
